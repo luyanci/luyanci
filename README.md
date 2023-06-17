@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luyanci
-[bilibili](https://space.bilibili.com/282873551)
+- Here is my video channel:[bilibili](https://space.bilibili.com/282873551)
 
 <!---
 luyanci/luyanci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
