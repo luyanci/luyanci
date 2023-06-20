@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luyanci
 - This is my video channel:[bilibili](https://space.bilibili.com/282873551)
-- My blog website:[github page](https://luyanci.github.io) or [netlify](https://luyancib.netlify.app)
+- My blog website:[github page](https://luyanci.github.io) or [netlify](https://luyancib.netlify.app) and the
 status:
 [![Netlify Status](https://api.netlify.com/api/v1/badges/3138df56-98ca-4739-93e8-b22b93b9d253/deploy-status)](https://app.netlify.com/sites/luyancib/deploys)
 <!---
