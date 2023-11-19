@@ -1,4 +1,4 @@
-![card](https://github.com/luyanci/netease-music-card/blob/main/card.svg)
+![card](https://github.com/luyanci/netease-music-card-fixed/blob/main/card.svg)
 # About me
 - 👋 Hi, I’m @luyanci
 - This is my video channel:[bilibili](https://space.bilibili.com/282873551)
