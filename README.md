@@ -1,4 +1,4 @@
-[![luyanci's GitHub stats](https://github-readme-stats.vercel.app/api?username=luyanci&show_icon=true)](https://github.com/anuraghazra/github-readme-stats)
+[![luyanci's GitHub stats](https://github-readme-stats.vercel.app/api?username=luyanci&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 # About me
 - 👋 Hi, I’m @luyanci
 - This is my video channel:[bilibili](https://space.bilibili.com/282873551)
