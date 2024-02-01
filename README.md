@@ -1,3 +1,4 @@
+[![luyanci's GitHub stats](https://github-readme-stats.vercel.app/api?username=luyanci)](https://github.com/anuraghazra/github-readme-stats)
 ![card](https://github.com/luyanci/netease-music-card-fixed/blob/main/card.svg)
 # About me
 - 👋 Hi, I’m @luyanci
