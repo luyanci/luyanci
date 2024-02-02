@@ -21,6 +21,7 @@
 ![card](https://github.com/luyanci/netease-music-card-fixed/blob/main/card.svg)
 
 </div>
+
 Contact:![](https://img.shields.io/badge/Tencent_QQ-EB1923?style=for-the-badge&logo=TencentQQ&logoColor=white)
 
 OS:![debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
