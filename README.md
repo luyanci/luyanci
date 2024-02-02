@@ -1,7 +1,7 @@
 [![luyanci's GitHub stats](https://github-readme-stats.vercel.app/api?username=luyanci&show_icons=true&hide=issues,contrb,stars)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
 
-![Followers](https://bilistats.lonelyion.com/followers?uid=282873551)![Following](https://bilistats.lonelyion.com/following?uid=282873551)
+![years](https://badges.pufler.dev/years/luyanci)![Followers](https://bilistats.lonelyion.com/followers?uid=282873551)![Following](https://bilistats.lonelyion.com/following?uid=282873551)
 
 
 </div>
@@ -11,7 +11,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFEB&random=false&width=435&lines=Hello+World!;I'm+%40luyanci)
 
-![years](https://badges.pufler.dev/years/luyanci)![](https://img.shields.io/badge/Tencent_QQ-EB1923?style=for-the-badge&logo=TencentQQ&logoColor=white)
+![](https://img.shields.io/badge/Tencent_QQ-EB1923?style=for-the-badge&logo=TencentQQ&logoColor=white)
 
 ![debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)![Windows 11](https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white)
 
