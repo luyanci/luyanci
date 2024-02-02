@@ -3,6 +3,7 @@
 
 ![Followers](https://bilistats.lonelyion.com/followers?uid=282873551)![Following](https://bilistats.lonelyion.com/following?uid=282873551)
 
+![](https://badges.pufler.dev/years/luyanci)
 </div>
 
 # About me
