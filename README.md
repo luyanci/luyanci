@@ -1,4 +1,5 @@
 [![luyanci's GitHub stats](https://github-readme-stats.vercel.app/api?username=luyanci&show_icons=true&hide=issues,contrb,stars)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-activity-graph.vercel.app/graph?username=luyanci)
 <div align="center">
 
 ![years](https://badges.pufler.dev/years/luyanci)![](https://badges.pufler.dev/repos/luyanci)
