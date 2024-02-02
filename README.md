@@ -1,6 +1,7 @@
 [![luyanci's GitHub stats](https://github-readme-stats.vercel.app/api?username=luyanci&show_icons=true&hide=issues,contrb,stars)](https://github.com/anuraghazra/github-readme-stats)
 ![Followers](https://bilistats.lonelyion.com/followers?uid=282873551)![Following](https://bilistats.lonelyion.com/following?uid=282873551)
 # About me
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFEB&random=false&width=435&lines=Hello+World!;I'm+%40luyanci)](https://git.io/typing-svg)
 - 👋 Hi, I’m @luyanci
 - This is my video channel:[bilibili](https://space.bilibili.com/282873551)
 - My blog website:[github page](https://luyanci.github.io)and the status:[![Pages](https://github.com/luyanci/luyanci.github.io/actions/workflows/pages.yml/badge.svg)](https://github.com/luyanci/luyanci.github.io/actions/workflows/pages.yml)
