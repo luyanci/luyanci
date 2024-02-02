@@ -7,7 +7,9 @@
 
 # About me
 <div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFEB&random=false&width=435&lines=Hello+World!;I'm+%40luyanci)](https://git.io/typing-svg)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello+World!;I'm+%40luyanci" alt="Typing SVG" /></a>
+
 </div>
 
 - This is my video channel:[bilibili](https://space.bilibili.com/282873551)
