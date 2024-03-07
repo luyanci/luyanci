@@ -18,7 +18,7 @@
 ## Other info
 <div align="center">
 
-![card](https://github.com/luyanci/netease-music-card-fixed/blob/main/card.svg)
+[card](https://github.com/luyanci/netease-music-card-fixed/blob/main/card.svg)
 
 </div>
 
