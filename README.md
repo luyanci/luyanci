@@ -14,7 +14,6 @@
 
 - This is my video channel:[bilibili](https://space.bilibili.com/282873551)
 - My blog website:[github page](https://luyanci.github.io)and the status:[![Pages](https://github.com/luyanci/luyanci.github.io/actions/workflows/pages.yml/badge.svg)](https://github.com/luyanci/luyanci.github.io/actions/workflows/pages.yml)
-- Or [netlify](https://luyancib.netlify.app)
 ## Other info
 <div align="center">
 
