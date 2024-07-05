@@ -1,8 +1,8 @@
 ![](https://raw.githubusercontent.com/luyanci/luyanci/main/profile-summary-card-output/algolia/0-profile-details.svg)
-![](https://raw.githubusercontent.com/luyanci/luyanci/main/profile-summary-card-output/algolia/4-productive-time.svg)
+
 <div align="center">
 
-![years](https://badges.pufler.dev/years/luyanci)![](https://badges.pufler.dev/repos/luyanci)
+![](https://raw.githubusercontent.com/luyanci/luyanci/main/profile-summary-card-output/algolia/4-productive-time.svg)
 
 ![Followers](https://bilistats.lonelyion.com/followers?uid=282873551)![Following](https://bilistats.lonelyion.com/following?uid=282873551)
 
