@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/luyanci/luyanci/main/profile-summary-card-output/algolia/0-profile-details.svg)
-![](https://raw.githubusercontent.com/luyanci/luyanci/main/profile-summary-card-output/algolia/3-stats.svg)
+![](https://raw.githubusercontent.com/luyanci/luyanci/main/profile-summary-card-output/algolia/4-productive-time.svg)
 <div align="center">
 
 ![years](https://badges.pufler.dev/years/luyanci)![](https://badges.pufler.dev/repos/luyanci)
