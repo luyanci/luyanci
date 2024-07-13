@@ -14,6 +14,13 @@
 
 - This is my video channel:[![Bilibili Badge](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=fff&style=for-the-badge)](https://space.bilibili.com/282873551)
 - My blog website:[github page](https://luyanci.github.io) and the status:[![Pages](https://github.com/luyanci/luyanci.github.io/actions/workflows/pages.yml/badge.svg)](https://github.com/luyanci/luyanci.github.io/actions/workflows/pages.yml)
+
+<div align="right">
+
+![](https://raw.githubusercontent.com/luyanci/luyanci/main/profile-summary-card-output/algolia/3-stats.svg)
+
+</div>
+
 ## Other info
 
 <div align="center">
