@@ -22,24 +22,17 @@
 </div>
 
 ## Other info
+<!-- steam-box start -->
 
+<!-- steam-box end -->
+ 
 <div align="center">
 
 ![card](https://github.com/luyanci/netease-music-card-fixed/blob/main/card.svg)
 
 </div>
 
-<!-- steam-box start -->
-🎮 Steam playtime leaderboard
-```text
-🎮 PC Building Simulator            🕘 43 hrs 6 mins
-🎮 Senren＊Banka                    🕘 32 hrs 33 mins
-🎮 Hacknet                          🕘 30 hrs 37 mins
-🎮 Live2DViewerEX                   🕘 12 hrs 16 mins
-🎮 Amairo Chocolate 2               🕘 10 hrs 39 mins
-```
-<!-- Powered by https://github.com/YouEclipse/steam-box . -->
-<!-- steam-box end -->
+
  
 
 
