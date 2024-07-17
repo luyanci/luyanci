@@ -31,6 +31,7 @@ jobs:
       - uses: actions/setup-go@v2
       - name: Clone and run steam-box
         run: |-
+          git config pull.rebase true --global  # rebase
           git clone https://github.com/YouEclipse/steam-box.git 
           cd steam-box && go build -o steam ./cmd/box/main.go
           mv ./steam ../ && cd .. && rm -rf steam-box/
