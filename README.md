@@ -36,7 +36,7 @@
  
 <div align="center">
 
-![card](https://github.com/luyanci/netease-music-card-fixed/blob/main/card.svg)
+![card](https://cdn.jsdelivr.net/gh/luyanci/netease-music-card-fixed/card.svg)
 
 </div>
 
