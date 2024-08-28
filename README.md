@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/luyanci/luyanci/main/profile-summary-card-output/algolia/0-profile-details.svg)
+![](https://cdn.jsdelivr.net/gh/luyanci/luyanci/profile-summary-card-output/algolia/0-profile-details.svg)
 
 <div align="center">
 
