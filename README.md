@@ -29,7 +29,7 @@
 ```text
 🎮 PC Building Simulator            🕘 43 hrs 6 mins
 🎮 Senren＊Banka                    🕘 32 hrs 33 mins
-🎮 Hacknet                          🕘 30 hrs 37 mins
+🎮 Hacknet                          🕘 30 hrs 55 mins
 🎮 Live2DViewerEX                   🕘 12 hrs 16 mins
 🎮 Amairo Chocolate 2               🕘 10 hrs 39 mins
 ```
