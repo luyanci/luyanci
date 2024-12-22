@@ -27,7 +27,7 @@
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
-🎮 PC Building Simulator            🕘 43 hrs 6 mins
+🎮 PC Building Simulator            🕘 49 hrs 58 mins
 🎮 Senren＊Banka                    🕘 32 hrs 33 mins
 🎮 Hacknet                          🕘 30 hrs 55 mins
 🎮 Live2DViewerEX                   🕘 12 hrs 16 mins
