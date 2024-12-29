@@ -22,3 +22,4 @@ jobs:
         with:
           UTC_OFFSET: 8
           USERNAME: ${{ github.repository_owner }}
+          EXCLUDE: "svelve"
