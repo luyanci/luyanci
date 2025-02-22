@@ -1,0 +1,15 @@
+name: test gist action
+on:
+  workflow_dispatch:
+  push:
+    branches: master
+  schedule:
+    - cron: "0 */24 * * *"
+jobs:
+  update-gist:
+    runs-on: ubuntu-latest
+    steps:
+        - name: Update gist
+          uses: luyanci/medal-reactivateor@main
+          with:
+            
