@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: "30 16 */3 * *"
 jobs:
-  update-gist:
+  helper:
     runs-on: ubuntu-latest
     steps: 
         - uses: actions/checkout@v4.2.2
@@ -14,3 +14,7 @@ jobs:
           uses: ./
           with:
             cookies: ${{secrets.BILI_MAIN_TOKEN}}
+        - name: Run action
+          uses: ./
+          with:
+            cookies: ${{secrets.BILI_TOKEN}}
