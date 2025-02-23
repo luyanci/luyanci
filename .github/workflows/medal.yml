@@ -6,8 +6,11 @@ on:
 jobs:
   update-gist:
     runs-on: ubuntu-latest
-    steps:
+    steps: 
+        - uses: actions/checkout@v4.2.2
+          with:
+            repository: vc-teahouse/medal-reactivateor
         - name: Run action
-          uses: vc-teahouse/medal-reactivateor@main
+          uses: ./
           with:
             cookies: ${{secrets.BILI_MAIN_TOKEN}}
