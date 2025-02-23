@@ -14,6 +14,12 @@ jobs:
           uses: ./
           with:
             cookies: ${{secrets.BILI_MAIN_TOKEN}}
+  helper1:
+    runs-on: ubuntu-latest
+    steps: 
+        - uses: actions/checkout@v4.2.2
+          with:
+            repository: vc-teahouse/medal-reactivateor
         - name: Run action
           uses: ./
           with:
