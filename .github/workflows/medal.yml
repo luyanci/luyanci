@@ -1,15 +1,13 @@
-name: test gist action
+name: medal-reactivateor
 on:
   workflow_dispatch:
-  push:
-    branches: master
   schedule:
-    - cron: "0 */24 * * *"
+    - cron: "30 16 */3 * *"
 jobs:
   update-gist:
     runs-on: ubuntu-latest
     steps:
-        - name: Update gist
+        - name: Run action
           uses: luyanci/medal-reactivateor@main
           with:
-            
+            cookie: ${{secrets.BILI_MAIN_TOKEN}}
