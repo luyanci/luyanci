@@ -8,6 +8,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
         - name: Run action
-          uses: luyanci/medal-reactivateor@main
+          uses: vc-teahouse/medal-reactivateor@main
           with:
             cookies: ${{secrets.BILI_MAIN_TOKEN}}
