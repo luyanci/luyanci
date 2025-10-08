@@ -2,11 +2,11 @@
 
 <div align="center">
 
-![](https://cdn.jsdelivr.net/gh/luyanci/luyanci/profile-summary-card-output/algolia/4-productive-time.svg)
+![](./profile-summary-card-output/algolia/4-productive-time.svg)
 
-![](https://cdn.jsdelivr.net/gh/luyanci/luyanci/profile-summary-card-output/algolia/2-most-commit-language.svg)
+![](./profile-summary-card-output/algolia/2-most-commit-language.svg)
 
-![Followers](./bilibili/followers.svg)![Following](./bilibili/following.svg)
+![Followers](./bilibili/follower.svg)![Following](./bilibili/following.svg)
 
 
 </div>
@@ -19,7 +19,7 @@
 
 <div align="right">
 
-![](https://raw.githubusercontent.com/luyanci/luyanci/main/profile-summary-card-output/algolia/3-stats.svg)
+![](./profile-summary-card-output/algolia/3-stats.svg)
 
 </div>
 
