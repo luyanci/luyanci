@@ -6,6 +6,7 @@
 
 ![](./profile-summary-card-output/algolia/2-most-commit-language.svg)
 
+![level](./bilibili/level.svg)![video view](./bilibili/views.svg)
 ![Followers](./bilibili/follower.svg)![Following](./bilibili/following.svg)
 
 
@@ -14,7 +15,7 @@
 # About me
 - Hi!I'm @luyanci!
 
-- This is my video channel:[![Bilibili Badge](https://img.shields.io/badge/Bilibili-00A1D6?logo=bilibili&logoColor=fff&style=for-the-badge)](https://space.bilibili.com/282873551)
+- This is my video channel:[![Bilibili Badge](./bilibili/user.svg)](https://space.bilibili.com/282873551)
 - My blog website:[github page](https://luyanci.github.io) and the status:[![Pages](https://github.com/luyanci/luyanci.github.io/actions/workflows/pages.yml/badge.svg)](https://github.com/luyanci/luyanci.github.io/actions/workflows/pages.yml)
 
 <div align="right">
