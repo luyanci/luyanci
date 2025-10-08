@@ -6,7 +6,7 @@
 
 ![](https://cdn.jsdelivr.net/gh/luyanci/luyanci/profile-summary-card-output/algolia/2-most-commit-language.svg)
 
-![Followers](https://bilistats.lonelyion.com/followers?uid=282873551)![Following](https://bilistats.lonelyion.com/following?uid=282873551)
+![Followers](./bilibili/followers.svg)![Following](./bilibili/following.svg)
 
 
 </div>
