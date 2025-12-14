@@ -33,7 +33,7 @@ jobs:
          github_user_name: ${{ github.repository_owner }}
          outputs: |
             snk/snk.svg?color_snake=blue
-            snk/snk.svg?palette=github-dark&color_snake=blue
+            snk/snk-dark.svg?palette=github-dark&color_snake=blue
       - name: Commit and push
         run: |-
           git config --global user.email "bot@github.com" && git config --global user.name "Steam-Bot"
