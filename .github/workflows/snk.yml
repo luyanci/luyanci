@@ -1,0 +1,42 @@
+# This is a basic workflow to help you get started with Actions
+
+name: Generate snake
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+
+      # Runs a single command using the runners shell
+      - uses: Platane/snk/svg-only@v3
+        with:
+        # github user name to read the contribution graph from (**required**)
+        # using action context var `github.repository_owner` or specified user
+         github_user_name: ${{ github.repository_owner }}
+         outputs: |
+            snk/snk.svg?color_snake=blue
+            snk/snk.svg?palette=github-dark&color_snake=blue
+      - name: Commit and push
+        run: |-
+          git config --global user.email "bot@github.com" && git config --global user.name "Steam-Bot"
+          git diff
+          git add snk/* && git commit -m ":play: update snake" || exit 0
+          git pull && git push
