@@ -6,6 +6,12 @@
 
 ![](./profile-summary-card-output/algolia/2-most-commit-language.svg)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="snk/snk-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="snk/snk.svg" />
+  <img alt="github-snake" src="snk/snk.svg" />
+</picture>
+
 ![level](./bilibili/level.svg)![video view](./bilibili/views.svg)
 
 ![Followers](./bilibili/follower.svg)![Following](./bilibili/following.svg)
