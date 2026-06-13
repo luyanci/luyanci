@@ -39,7 +39,7 @@
 🎮 Senren＊Banka                    🕘 32 hrs 33 mins
 🎮 Hacknet                          🕘 30 hrs 55 mins
 🎮 Amairo Chocolate 3               🕘 15 hrs 33 mins
-🎮 Live2DViewerEX                   🕘 12 hrs 16 mins
+🎮 Amairo Chocolate                 🕘 13 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
