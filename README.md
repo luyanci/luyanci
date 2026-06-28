@@ -38,7 +38,7 @@
 🎮 PC Building Simulator            🕘 58 hrs 33 mins
 🎮 Senren＊Banka                    🕘 32 hrs 33 mins
 🎮 Hacknet                          🕘 31 hrs 48 mins
-🎮 Amairo Chocolate 3               🕘 15 hrs 33 mins
+🎮 Amairo Chocolate 3               🕘 15 hrs 54 mins
 🎮 Amairo Chocolate                 🕘 13 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
