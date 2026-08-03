@@ -39,7 +39,7 @@
 🎮 Senren＊Banka                    🕘 32 hrs 33 mins
 🎮 Hacknet                          🕘 31 hrs 48 mins
 🎮 Amairo Chocolate 3               🕘 31 hrs 32 mins
-🎮 Amairo Chocolate                 🕘 13 hrs 35 mins
+🎮 Amairo Chocolate                 🕘 13 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
