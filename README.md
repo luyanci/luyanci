@@ -35,8 +35,8 @@
 <!-- steam-box start -->
 🎮 Steam playtime leaderboard
 ```text
-🎮 PC Building Simulator            🕘 60 hrs 28 mins
-🎮 Hacknet                          🕘 50 hrs 37 mins
+🎮 PC Building Simulator            🕘 60 hrs 29 mins
+🎮 Hacknet                          🕘 50 hrs 39 mins
 🎮 Senren＊Banka                    🕘 32 hrs 33 mins
 🎮 Amairo Chocolate 3               🕘 32 hrs 22 mins
 🎮 Amairo Chocolate                 🕘 28 hrs 8 mins
